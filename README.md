@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sai Venkat Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **my portfolio**
+
+- 🌱 I’m currently learning **React, .Net frame work**
+
+- 👯 I’m looking to collaborate on **Full Stack Web Development**
+
+- 🤝 I’m looking for help with **Mobile App Development**
+
+- 💬 Ask me about **Web Development technologies and Data analytic technologies**
+
 - 📫 How to reach me **bsaivenkat.666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
