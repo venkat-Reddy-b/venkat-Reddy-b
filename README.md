@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **React, .Net frame work**
+- 🌱 I’m looking forward to learn **React, .Net frame work**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
